@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\btvn2\bin\Debug\net8.0\btvn2.exe
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\btvn2\bin\Debug\net8.0\btvn2.deps.json
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\btvn2\bin\Debug\net8.0\btvn2.runtimeconfig.json
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\btvn2\bin\Debug\net8.0\btvn2.dll
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\btvn2\bin\Debug\net8.0\btvn2.pdb
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\btvn2\obj\Debug\net8.0\btvn2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\btvn2\obj\Debug\net8.0\btvn2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\btvn2\obj\Debug\net8.0\btvn2.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\btvn2\obj\Debug\net8.0\btvn2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\btvn2\obj\Debug\net8.0\btvn2.sourcelink.json
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\btvn2\obj\Debug\net8.0\btvn2.dll
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\btvn2\obj\Debug\net8.0\refint\btvn2.dll
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\btvn2\obj\Debug\net8.0\btvn2.pdb
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\btvn2\obj\Debug\net8.0\btvn2.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\btvn2\obj\Debug\net8.0\ref\btvn2.dll

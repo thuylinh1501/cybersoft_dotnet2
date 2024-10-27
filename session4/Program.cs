@@ -79,6 +79,8 @@ Console.WriteLine("Hello, World!");
 //     Console.WriteLine($"Số {number} là số nguyên tố.");
 // }
 #endregion
+
+#region for statement 
 //In bảng cửu chương
 // Console.WriteLine("Mời bạn nhập số: ");
 // int number = Convert.ToInt32(Console.ReadLine());
@@ -138,6 +140,4 @@ for (int i = 0; i <= n; i++)
     
     Console.WriteLine();
 }
-#region for statement 
-
 #endregion

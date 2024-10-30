@@ -121,23 +121,51 @@ Console.WriteLine("Hello, World!");
 // }
 
 // In ra tam giác cân
-Console.Write("Nhập chiều cao tam giác cân: ");
-int n = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Nhập chiều cao tam giác cân: ");
+// int n = Convert.ToInt32(Console.ReadLine());
 
-for (int i = 0; i <= n; i++)
+// for (int i = 0; i <= n; i++)
+// {
+//     // In khoảng trắng
+//     for (int j = 0; j <= n - i - 1; j++)
+//     {
+//         Console.Write(" ");
+//     }
+
+//     // In dấu sao
+//     for (int k = 0; k < 2 * i + 1; k++)
+//     {
+//         Console.Write("*");
+//     }
+
+//     Console.WriteLine();
+// }
+
+Console.WriteLine("Nhập vào chiều dài của hình chữ nhật:");
+int chieudai = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Nhập vào chiều rộng của hình chữ nhật: ");
+int chieurong = Convert.ToInt32(Console.ReadLine());
+
+for (int i = 0; i < chieurong; i++)
 {
-    // In khoảng trắng
-    for (int j = 0; j <= n - i - 1; j++)
+    if (i == 0 || i == chieurong - 1)
     {
-        Console.Write(" ");
+        for (int j = 0; j < chieudai; j++)
+        {
+            Console.Write("*");
+        }
+        Console.WriteLine();
     }
-
-    // In dấu sao
-    for (int k = 0; k < 2 * i + 1; k++)
+    else
     {
         Console.Write("*");
+        for (int j = 0; j < chieudai - 2; j++)
+        {
+            Console.Write(" ");
+        }
+        Console.Write("*");
+        Console.WriteLine();
     }
-    
-    Console.WriteLine();
 }
+
 #endregion

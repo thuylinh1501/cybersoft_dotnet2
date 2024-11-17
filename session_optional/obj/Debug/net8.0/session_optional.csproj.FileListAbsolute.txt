@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\session_optional\obj\Debug\net8.0\session_optional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\session_optional\obj\Debug\net8.0\session_optional.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\session_optional\obj\Debug\net8.0\session_optional.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\session_optional\obj\Debug\net8.0\session_optional.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\session_optional\obj\Debug\net8.0\session_optional.sourcelink.json
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\session_optional\obj\Debug\net8.0\session_optional.dll
+C:\Users\ADMIN\Desktop\cyber_sharp\cybersoft_dotnet2\session_optional\obj\Debug\net8.0\session_optional.pdb

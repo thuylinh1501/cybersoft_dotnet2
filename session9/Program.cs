@@ -56,6 +56,9 @@
         // BTVN thêm
         // B1: tạo 1 đối tượng sản phẩm (mã sp, tên sp, giá bán, số lượng tồn kho)
         // nhập và xuất sản phẩm
+        SanPham sp = new SanPham();
+        sp.nhapThongTin();
+        sp.xuatSanPham();
 
         // B2: tạo lớp retangle với các thuộc tính
         // length (chiều dài)

@@ -1,0 +1,11 @@
+[
+  {
+    "Model": "ABC",
+    "Color": "Den",
+    "Engine": 9000,
+    "VehicleId": "01",
+    "Brand": "camry",
+    "Year": 2020,
+    "Price": 1000000000.0
+  }
+]

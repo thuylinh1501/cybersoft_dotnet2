@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\btvn_buoi8\bin\Debug\net8.0\btvn_buoi8.exe
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\btvn_buoi8\bin\Debug\net8.0\btvn_buoi8.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\btvn_buoi8\bin\Debug\net8.0\btvn_buoi8.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\btvn_buoi8\bin\Debug\net8.0\btvn_buoi8.dll
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\btvn_buoi8\bin\Debug\net8.0\btvn_buoi8.pdb
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\btvn_buoi8\obj\Debug\net8.0\btvn_buoi8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\btvn_buoi8\obj\Debug\net8.0\btvn_buoi8.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\btvn_buoi8\obj\Debug\net8.0\btvn_buoi8.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\btvn_buoi8\obj\Debug\net8.0\btvn_buoi8.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\btvn_buoi8\obj\Debug\net8.0\btvn_buoi8.sourcelink.json
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\btvn_buoi8\obj\Debug\net8.0\btvn_buoi8.dll
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\btvn_buoi8\obj\Debug\net8.0\refint\btvn_buoi8.dll
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\btvn_buoi8\obj\Debug\net8.0\btvn_buoi8.pdb
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\btvn_buoi8\obj\Debug\net8.0\btvn_buoi8.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\btvn_buoi8\obj\Debug\net8.0\ref\btvn_buoi8.dll

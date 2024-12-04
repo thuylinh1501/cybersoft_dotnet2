@@ -1,0 +1,22 @@
+[
+  {
+    "ProductId": 1,
+    "ProductName": "ao",
+    "Price": 100000.0,
+    "Description": "asd"
+  },
+  {
+    "Warranty": 1,
+    "ProductId": 3,
+    "ProductName": "1",
+    "Price": 100000.0,
+    "Description": "gfrdg"
+  },
+  {
+    "Warranty": 3,
+    "ProductId": 10,
+    "ProductName": "quan",
+    "Price": 120000.0,
+    "Description": "dsbgs"
+  }
+]

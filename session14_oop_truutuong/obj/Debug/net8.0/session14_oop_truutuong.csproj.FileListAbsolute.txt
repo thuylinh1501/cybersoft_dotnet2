@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\session14_oop_truutuong\obj\Debug\net8.0\session14_oop_truutuong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\session14_oop_truutuong\obj\Debug\net8.0\session14_oop_truutuong.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\session14_oop_truutuong\obj\Debug\net8.0\session14_oop_truutuong.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\session14_oop_truutuong\obj\Debug\net8.0\session14_oop_truutuong.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\session14_oop_truutuong\obj\Debug\net8.0\session14_oop_truutuong.sourcelink.json
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\session14_oop_truutuong\bin\Debug\net8.0\session14_oop_truutuong.exe
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\session14_oop_truutuong\bin\Debug\net8.0\session14_oop_truutuong.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\session14_oop_truutuong\bin\Debug\net8.0\session14_oop_truutuong.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\session14_oop_truutuong\bin\Debug\net8.0\session14_oop_truutuong.dll
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\session14_oop_truutuong\bin\Debug\net8.0\session14_oop_truutuong.pdb
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\session14_oop_truutuong\obj\Debug\net8.0\session14_oop_truutuong.dll
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\session14_oop_truutuong\obj\Debug\net8.0\refint\session14_oop_truutuong.dll
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\session14_oop_truutuong\obj\Debug\net8.0\session14_oop_truutuong.pdb
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\session14_oop_truutuong\obj\Debug\net8.0\session14_oop_truutuong.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\session14_oop_truutuong\obj\Debug\net8.0\ref\session14_oop_truutuong.dll

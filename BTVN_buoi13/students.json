@@ -1,0 +1,16 @@
+[
+  {
+    "StudentId": 1,
+    "Name": "thuy linh",
+    "MathScore": 9.0,
+    "LiteratureScore": 8.0,
+    "EnglishScore": 7.5
+  },
+  {
+    "StudentId": 2,
+    "Name": "bao anh",
+    "MathScore": 10.0,
+    "LiteratureScore": 7.5,
+    "EnglishScore": 9.0
+  }
+]

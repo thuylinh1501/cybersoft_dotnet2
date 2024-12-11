@@ -29,7 +29,7 @@
                     break;
                 case 3:
                     Console.Write("Nhập mã học sinh cần cập nhật: ");
-                    int id = int.Parse(Console.ReadLine());
+                    int id = Convert.ToInt32(Console.ReadLine());
                     manager.UpdateScores(id);
                     break;
                 case 4:
@@ -37,7 +37,7 @@
                     break;
                 case 5:
                     Console.Write("Nhập mã học sinh cần xóa: ");
-                    int deleteId = int.Parse(Console.ReadLine());
+                    int deleteId = Convert.ToInt32(Console.ReadLine());
                     manager.DeleteStudent(deleteId);
                     break;
                 case 6:

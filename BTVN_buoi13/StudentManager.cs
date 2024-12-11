@@ -26,15 +26,15 @@ class StudentManager{
 
     public void AddStudent(){
         Console.WriteLine("Nhập mã học sinh: ");
-        int id = int.Parse(Console.ReadLine());
+        int id = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Nhập tên học sinh: ");
         string name = Console.ReadLine();
         Console.WriteLine("Nhập điểm Toán: ");
-        double math = double.Parse(Console.ReadLine());
+        double math = Convert.ToInt64(Console.ReadLine());
         Console.WriteLine("Nhập điểm Văn: ");
-        double literature = double.Parse(Console.ReadLine());
+        double literature = Convert.ToInt64(Console.ReadLine());
         Console.WriteLine("Nhập điểm Anh: ");
-        double english = double.Parse(Console.ReadLine());
+        double english = Convert.ToInt64(Console.ReadLine());
 
         // Correcting constructor issue
         Student student = new Student { StudentId = id, Name = name, MathScore = math, LiteratureScore = literature, EnglishScore = english };

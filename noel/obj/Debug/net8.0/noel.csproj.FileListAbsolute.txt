@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\noel\bin\Debug\net8.0\noel.exe
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\noel\bin\Debug\net8.0\noel.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\noel\bin\Debug\net8.0\noel.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\noel\bin\Debug\net8.0\noel.dll
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\noel\obj\Debug\net8.0\noel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\noel\obj\Debug\net8.0\noel.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\noel\obj\Debug\net8.0\noel.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\noel\obj\Debug\net8.0\noel.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\noel\obj\Debug\net8.0\noel.sourcelink.json
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\noel\obj\Debug\net8.0\noel.dll
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\noel\obj\Debug\net8.0\refint\noel.dll
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\noel\obj\Debug\net8.0\noel.pdb
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\noel\obj\Debug\net8.0\noel.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\noel\obj\Debug\net8.0\ref\noel.dll
+C:\Users\ADMIN\OneDrive\Desktop\cyber_sharp\cybersoft_dotnet2\noel\bin\Debug\net8.0\noel.pdb

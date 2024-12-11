@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("btvn2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddeeca4c5725525409ded369e43907f7c1288271")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5f9d7306627dcb6f5ace9ca0cbd94631b65c212")]
 [assembly: System.Reflection.AssemblyProductAttribute("btvn2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("btvn2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

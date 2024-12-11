@@ -49,7 +49,10 @@ internal class Program
             Console.WriteLine($"Nhập phần tử thứ {i+1}");
             String? item = Console.ReadLine();
             int formatItem = Convert.ToInt32(item);
-            listNumbers.Insert(i, formatItem);
+            // listNumbers.Insert(i, formatItem); // c1
+
+            //c2: dùng add: thêm phần tử vào cuối ds
+            listNumbers.Add(formatItem);
         }
 
         // in list phần tử

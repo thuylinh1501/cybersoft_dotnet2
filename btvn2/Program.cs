@@ -30,7 +30,7 @@ double phanTramGiamGia = Convert.ToDouble(giamGia);
 
 // PROCESS
 // Tính số tiền giảm giá: soTienGiamGia = (phanTramGiamGia / 100) * giaGoc
-double soTienGiamGia = (phanTramGiamGia / 100) * giaGoc;
+double soTienGiamGia = phanTramGiamGia / 100 * giaGoc;
 // Tính tổng giá trị sau khi giảm giá : tongGiaTriSauGiamGia = giaGoc - soTienGiamGia
 double tongGiaTriSauGiamGia = giaGoc - soTienGiamGia;
 

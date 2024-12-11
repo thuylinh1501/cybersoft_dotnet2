@@ -32,7 +32,7 @@ internal class Program
         });
         File.WriteAllText("animals.json", json);
         Console.WriteLine("Lưu file thành công!");
-        // thread
+        
         // Đọc file json
         string jsonFromFile = File.ReadAllText("animals.json");
         List<Animal>? animals1 = JsonConvert.DeserializeObject<List<Animal>>(jsonFromFile, new JsonSerializerSettings {

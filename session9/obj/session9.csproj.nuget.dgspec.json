@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\cyber_sharp\\cybersoft_dotnet2\\session9\\session9.csproj": {}
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\cyber_sharp\\cybersoft_dotnet2\\session9\\session9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\cyber_sharp\\cybersoft_dotnet2\\session9\\session9.csproj": {
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\cyber_sharp\\cybersoft_dotnet2\\session9\\session9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\cyber_sharp\\cybersoft_dotnet2\\session9\\session9.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\cyber_sharp\\cybersoft_dotnet2\\session9\\session9.csproj",
         "projectName": "session9",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\cyber_sharp\\cybersoft_dotnet2\\session9\\session9.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\cyber_sharp\\cybersoft_dotnet2\\session9\\session9.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\cyber_sharp\\cybersoft_dotnet2\\session9\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\cyber_sharp\\cybersoft_dotnet2\\session9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

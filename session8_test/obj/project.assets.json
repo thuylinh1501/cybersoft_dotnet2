@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\cyber_sharp\\cybersoft_dotnet2\\session8_test\\session8_test.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\cyber_sharp\\cybersoft_dotnet2\\session8_test\\session8_test.csproj",
       "projectName": "session8_test",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\cyber_sharp\\cybersoft_dotnet2\\session8_test\\session8_test.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\cyber_sharp\\cybersoft_dotnet2\\session8_test\\session8_test.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\cyber_sharp\\cybersoft_dotnet2\\session8_test\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\cyber_sharp\\cybersoft_dotnet2\\session8_test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

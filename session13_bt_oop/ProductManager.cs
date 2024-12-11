@@ -47,7 +47,7 @@ class ProductManager{
         products.Sort((p1,p2) => p2.Price.CompareTo(p1.Price));
         foreach (Product product in products){
             product.displayInfo();
-            Console.WriteLine("=================================");
+             
         }
         // c2: dùng OrderBy(tăng dần) hoặc OrderByDescending(giảm dần)
         // OrderBy thì không làm ảnh hưởng đến list ban đầu

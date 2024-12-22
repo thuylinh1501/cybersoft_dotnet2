@@ -1,0 +1,39 @@
+<!-- ! + Tab: tạo nhanh HTML -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+     <!-- Cách 2: internal css -->
+    <!-- nhúng code css trên thẻ head của file html -->
+     <style>
+        .heading2{
+            text-align: center;
+            color: aquamarine;
+        }
+        h2{
+            color: blueviolet;
+        }
+        #heading3{
+            color:brown;
+        }
+     </style>
+     <!-- Cách 3: external css -->
+    <!-- nhúng file css vào file html -->
+     <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <!-- có 3 cách import cass vào file html-->
+    <!-- Cách 1: inline css -->
+    <!-- nhúng trực tiếp code css vào thẻ của html -->
+    <h1 style="color: red;">Hello Word!</h1>
+
+    <!-- Cách 2: internal css -->
+    <h2 class="heading2">Demo internal css</h2>
+    <h2 id="heading3">Demo 1</h2>
+
+    <!-- Cách 3: external css -->
+    <h2 class="heading3">Demo 2</h2>
+</body>
+</html>

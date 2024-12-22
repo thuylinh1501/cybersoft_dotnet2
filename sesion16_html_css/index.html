@@ -20,11 +20,14 @@ Cmd + /: Comment code (mac) -->
       Cybersoft coffee
     </h1>
     <!-- Thẻ liên kết -->
-    <a href="#">Home</a>
-    <a href="#">Menu</a>
-    <!-- Liên kết ngoại -->
-    <!-- target="_blank": mở liên kết trong tab mới -->
-    <a href="https://pasgo.vn/" target="_blank">Order</a>
+    <!-- Để menu trong thẻ div-->
+    <div style="text-align: center;">
+      <a href="#">Home</a>
+      <a href="#">Menu</a>
+      <!-- Liên kết ngoại -->
+      <!-- target="_blank": mở liên kết trong tab mới -->
+      <a href="https://pasgo.vn/" target="_blank">Order</a>
+    </div>
     <!-- vẽ đường line -->
     <!-- noshade: không hiển thị shadow -->
     <!-- pixel: giá trị tuyệt đối. Không thay đổi kích thước mỗi khi thy đổi width -->
@@ -46,6 +49,7 @@ Cmd + /: Comment code (mac) -->
       <br />
       Eaque repellat dolorum deserunt.
     </p>
+    <!-- thêm code css bên trong chính thẻ html => inline css -->
     <hr style="height: 5px; width: 70%" noshade />
 
     <h2 style="text-align: center; color: burlywood">Special Items</h2>
@@ -94,10 +98,38 @@ Cmd + /: Comment code (mac) -->
           <th>Price</th>
       </tr>
       <tr>
-          <td style="background-image: url(./img/chilling-cafe-11.jpg);">Traditional Coffee</td>
-          <td>Vietnamese coffee pin</td>
+          <td rowspan="4" style="background-image: url(./img/chilling-cafe-11.jpg); color: white;">Traditional Coffee</td>
+          <td rowspan="2">Vietnamese coffee pin</td>
           <td>Hot</td>
-          <td>20.000 VND</td>
+          <td>60.000 VND</td>
+      </tr>
+      <tr>
+        <td>Cold</td>
+        <td>28.000 VND</td>
+      </tr>
+      <tr>
+        <td rowspan="2">Milk coffee</td>
+        <td>Hot</td>
+        <td>38.000 VND</td>
+      </tr>
+      <tr>
+        <td>Cold</td>
+        <td>54.000 VND</td>
+      </tr>
+  
+
+      <tr>
+        <td rowspan="6" style="background-image: url(./img/chilling-cafe-13.jpg); color: white;">Expresso</td>
+        <td>America coffee</td>
+        <td rowspan="3">Hot</td>
+        <td>110.000 VND</td>
+      </tr>
+      <tr>
+        <td>Machiato</td>
+        <td rowspan="2">40.000 VND</td>
+      </tr>
+      <tr>
+        <td>Cappuchino</td>
       </tr>
     </table>
     <br><br><br><br><br>

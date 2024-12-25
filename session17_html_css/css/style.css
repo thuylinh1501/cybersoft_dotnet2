@@ -67,8 +67,36 @@
 
     padding: 20px 10px;
     text-align: center;
-    border-radius: 20px;
+    /* border-radius: 20px;
+    background-color: white; */
+}
+
+.activities__card {
     background-color: white;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.activities__love {
+    color: red;
+    font-size: 25px;
+    width: 42px;
+    height: 42px;
+    background-color: rgba(255, 255, 255, 0.377);
+    line-height: 42px;
+
+    /* đánh dấu class này là class con */
+    position: absolute;
+    top: 20px;
+    right: 35px;
+    border-radius: 14px;
+    cursor: pointer;
+}
+
+/* set position giữa card và love */
+.activities__img {
+    /* đánh dấu class này là class cha */
+    position: relative;
 }
 
 .activities__img img {
@@ -120,4 +148,48 @@
 
 .clear {
     clear: both;
+}
+
+/* contact */
+.contact{
+    border-radius: 20px;
+    margin: 20px 0;
+    background-color: #f8e1db;
+}
+
+.container{
+    max-width: 1440px;
+    margin: auto;
+    height: 400px;
+}
+
+.contact__left,
+.contact__right {
+    float: left;
+    width: 50%;
+    padding: 20px 60px;
+}
+
+.contact__left {
+    background-image: url(../img/mask.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.contact__app,
+.contact__follow {
+    float: left;
+    width: 50%;
+    padding-right: 15px;
+}
+
+.contact__app img {
+    float: left;
+    width: 50%;
+}
+
+.contact__follow i {
+    color: red;
+    font-size: 25px;
+    margin-right: 10px;
 }

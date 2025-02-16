@@ -26,12 +26,12 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/cyber_sharp/cybersoft_dotnet2/session26_validation_component_razor/Components/ProductItem.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0SXRlbS5yYXpvcg==
+[C:/Users/ADMIN/OneDrive/Desktop/cyber_sharp/cybersoft_dotnet2/session26_validation_component_razor/Components/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMb2dpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/OneDrive/Desktop/cyber_sharp/cybersoft_dotnet2/session26_validation_component_razor/Components/Productlist.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0bGlzdC5yYXpvcg==
+[C:/Users/ADMIN/OneDrive/Desktop/cyber_sharp/cybersoft_dotnet2/session26_validation_component_razor/Components/ProductItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0SXRlbS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ADMIN/OneDrive/Desktop/cyber_sharp/cybersoft_dotnet2/session26_validation_component_razor/Pages/ContactForm.razor]
@@ -44,6 +44,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ADMIN/OneDrive/Desktop/cyber_sharp/cybersoft_dotnet2/session26_validation_component_razor/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/OneDrive/Desktop/cyber_sharp/cybersoft_dotnet2/session26_validation_component_razor/Pages/Productlist.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdGxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/OneDrive/Desktop/cyber_sharp/cybersoft_dotnet2/session26_validation_component_razor/Pages/Registerform.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXJmb3JtLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ADMIN/OneDrive/Desktop/cyber_sharp/cybersoft_dotnet2/session26_validation_component_razor/Pages/Weather.razor]
